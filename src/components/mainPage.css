@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.cart{
+    background-color:transparent;
+    margin-right: 1rem;
+}
+.log-out{
+    background-color: black;
+}
+.mainlogo{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.heading{
+    margin-top: 1rem;
+    margin-right:auto;
+    margin-left: 2rem;
+}
+.a{
+    margin-top: 0.5rem;
+}
+
+.search{
+    width: 40rem;
+    margin-top: 1.5rem;
+    margin-right: 6rem;
+}
+
+.form2{
+    display: flex;
+}
