@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/price-comparison/static/css/main.600f1cdd.css",
+    "main.js": "/price-comparison/static/js/main.7d298c06.js",
+    "static/js/787.eaad36ba.chunk.js": "/price-comparison/static/js/787.eaad36ba.chunk.js",
+    "static/media/comparison.png": "/price-comparison/static/media/comparison.b4e6f5157083531c3a34.png",
+    "index.html": "/price-comparison/index.html",
+    "main.600f1cdd.css.map": "/price-comparison/static/css/main.600f1cdd.css.map",
+    "main.7d298c06.js.map": "/price-comparison/static/js/main.7d298c06.js.map",
+    "787.eaad36ba.chunk.js.map": "/price-comparison/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600f1cdd.css",
+    "static/js/main.7d298c06.js"
+  ]
+}
